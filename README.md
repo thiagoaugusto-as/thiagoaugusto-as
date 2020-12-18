@@ -5,6 +5,8 @@
 </a>
 
 <br />
+<br />
+<br />
 
 Olá! Sou o Thiago Augusto, graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), apaixodado por tecnologia e desbravando novos caminhos na área de desenvolvimento web e linguagens de programação.
 
@@ -33,7 +35,7 @@ Olá! Sou o Thiago Augusto, graduando em Engenharia de Computação pela Univers
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagoaugusto-as&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-*<i>"A santidade não consiste em fazer coisas cada dia mais difíceis, mas em fazê-las cada dia com mais amor."</i>*
+#**<i>"A santidade não consiste em fazer coisas cada dia mais difíceis, mas em fazê-las cada dia com mais amor."</i>**
 </br>
 **São José Maria Escrivá**
 
