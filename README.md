@@ -17,7 +17,7 @@ Olá! Sou o Thiago Augusto, graduando em Engenharia de Computação pela Univers
 - 👨🏽‍💻 Aprendendo atualmente (NodeJS, Typescript, React); 
 - 💬 Amo ajudar e contribuir com a comunidade...é só chamar!
 
-**Languages and Tools:**  
+**Linguagens e ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -31,7 +31,7 @@ Olá! Sou o Thiago Augusto, graduando em Engenharia de Computação pela Univers
 <code><img height="20" src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png"></code>
 
 
-📈 My GitHub Stats
+📈 Minhas estatísticas:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagoaugusto-as&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
