@@ -10,7 +10,7 @@
 
 Olá! Sou o Thiago Augusto, graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), apaixodado por tecnologia e desbravando novos caminhos na área de desenvolvimento web e linguagens de programação.
 
-  <img align="right" alt="GIF" src="https://giphy.com/embed/Q7SKqn3G97xpmfSOvG" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/thiagoaugusto-as/thiago-augusto-as/blob/master/dino.gif?raw=true" width="500" height="320" />
   
 **Se liga...**
 
