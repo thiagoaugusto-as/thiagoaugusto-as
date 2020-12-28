@@ -1,4 +1,4 @@
-### Hey Fellas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey Guys! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/thiago-augusto-b6359b1a3/">
   <img align="left" alt="Thiago Augusto LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -13,11 +13,8 @@
 Olá! Sou o Thiago Augusto, graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), apaixodado por tecnologia e desbravando novos caminhos na área de desenvolvimento web e linguagens de programação.
 
   
-  
-**Se liga...**
-
 - 👨🏽‍💻 Aprendendo atualmente (NodeJS, Typescript, React); 
-- 💬 Amo ajudar e contribuir com a comunidade...é só chamar!
+- 💬 Gosto ajudar e contribuir...é só chamar!
 
 **Linguagens e ferramentas:**  
 
