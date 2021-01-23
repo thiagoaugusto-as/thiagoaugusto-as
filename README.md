@@ -14,7 +14,6 @@ Sou o Thiago Augusto, graduando em Engenharia de Computação pela Universidade 
 
   
 - 👨🏽‍💻 Aprendendo atualmente (NodeJS, Typescript, React); 
-- 💬 Gosto ajudar e contribuir...é só chamar!!
 
 **Linguagens e ferramentas:**  
 
