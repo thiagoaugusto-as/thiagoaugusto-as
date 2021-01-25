@@ -13,7 +13,7 @@
 Sou o Thiago Augusto, graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), apaixodado por tecnologia e desbravando novos caminhos na área de desenvolvimento web e linguagens de programação.
 
   
-- 👨🏽‍💻 Aprendendo atualmente (NodeJS, Typescript, React); 
+- 👨🏽‍💻 Aprendendo atualmente (NodeJS, Typescript, React)
 
 **Linguagens e ferramentas:**  
 
